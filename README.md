@@ -15,3 +15,12 @@ The main objectives of this Digital Forensics project are:
 6. To examine file metadata and timestamps.
 7. To identify deleted files or data, if available.
 8. To document the findings of the forensic investigation.
+## 3. Tools and Requirements
+
+The following tools and resources were used to perform this Digital Forensics project:
+
+1. FTK Imager – Used for acquiring and analyzing digital evidence.
+2. Windows Operating System – Used as the operating environment for the investigation.
+3. Storage Device or Logical Drive – Used as the source of digital evidence.
+4. Computer or Laptop – Used to perform the forensic investigation.
+5. Screenshot Tool – Used to capture and document each step of the investigation.
