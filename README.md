@@ -24,3 +24,4 @@ The following tools and resources were used to perform this Digital Forensics pr
 3. Storage Device or Logical Drive – Used as the source of digital evidence.
 4. Computer or Laptop – Used to perform the forensic investigation.
 5. Screenshot Tool – Used to capture and document each step of the investigation.
+Step 1: Install FTK Imager
