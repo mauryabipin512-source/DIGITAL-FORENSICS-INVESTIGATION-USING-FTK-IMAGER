@@ -28,4 +28,5 @@ The following tools and resources were used to perform this Digital Forensics pr
 ## To click thish link and download ftk imager
 https://go.exterro.com/l/43312/2023-05-03/fc4b78?utm_source=chatgpt.com
 ## 1 step
+## First is open the ftk imager 
 <img width="710" height="379" alt="Screenshot 2026-08-31 050907" src="https://github.com/user-attachments/assets/d66c4dd1-68e8-4194-9ec6-d0d4b827e17a" />
