@@ -44,6 +44,6 @@ After loading the file, select the required evidence and click **“Export Files
 
 <img width="711" height="359" alt="Screenshot 2026-08-31 060915" src="https://github.com/user-attachments/assets/c45955ee-af90-4982-9b55-e8daf08326a4" />
 
-### 🔎 Step 5: Findings / Conclusion
+# 🔎  Conclusion
 
 The selected evidence was successfully examined using FTK Imager. During the analysis, deleted files and relevant digital evidence were identified and exported for further examination. The findings were documented as part of the digital forensic investigation.
