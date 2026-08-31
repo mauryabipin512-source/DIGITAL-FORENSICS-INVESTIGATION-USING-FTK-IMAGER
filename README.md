@@ -26,8 +26,7 @@ The following tools and resources were used to perform this Digital Forensics pr
 5. Screenshot Tool – Used to capture and document each step of the investigation.
 # Step 1: FTK Imager Installation — official link
 https://go.exterro.com/l/43312/2023-05-03/fc4b78?utm_source=chatgpt.com
-# Step 2:
-## First is open the ftk imager 
+# Step 2: First is open the ftk imager 
 <img width="710" height="379" alt="Screenshot 2026-08-31 050907" src="https://github.com/user-attachments/assets/d66c4dd1-68e8-4194-9ec6-d0d4b827e17a" />
 
 
