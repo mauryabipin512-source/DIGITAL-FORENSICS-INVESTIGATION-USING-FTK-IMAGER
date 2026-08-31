@@ -32,7 +32,7 @@ https://go.exterro.com/l/43312/2023-05-03/fc4b78?utm_source=chatgpt.com
 <img width="710" height="379" alt="Screenshot 2026-08-31 050907" src="https://github.com/user-attachments/assets/d66c4dd1-68e8-4194-9ec6-d0d4b827e17a" />
 
 
-# 🔍 Step 3: Select Evidence File
+# 🔍 Step 3: Select Evidence File from pendrive
 
 Select the required evidence file from the system to begin the forensic analysis.
 
