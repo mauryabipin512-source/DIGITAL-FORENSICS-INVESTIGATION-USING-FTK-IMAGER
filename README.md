@@ -32,7 +32,7 @@ https://go.exterro.com/l/43312/2023-05-03/fc4b78?utm_source=chatgpt.com
 
 # 🔍 Step 3: Select Evidence File from pendrive
 
-Select the required evidence file from the system to begin the forensic analysis.
+Click on File → Add Evidence Item, then select Physical Drive to add the required storage device for forensic analysis.
 
 
 <img width="689" height="361" alt="Screenshot 2026-08-31 063026" src="https://github.com/user-attachments/assets/70253706-21b4-4442-bbcc-e858eac66c96" />
