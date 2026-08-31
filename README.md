@@ -44,4 +44,5 @@ Select the required evidence file from the system to begin the forensic analysis
 
 After loading the file, select the required evidence and click **“Export Files”** to save it to your drive. The exported files can then be examined to identify **deleted files and other digital evidence**.
 
+<img width="711" height="359" alt="Screenshot 2026-08-31 060915" src="https://github.com/user-attachments/assets/c45955ee-af90-4982-9b55-e8daf08326a4" />
 
