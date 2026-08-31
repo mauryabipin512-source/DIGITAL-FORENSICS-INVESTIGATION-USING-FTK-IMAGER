@@ -38,7 +38,7 @@ Select the required evidence file from the system to begin the forensic analysis
 <img width="356" height="265" alt="Screenshot 2026-08-31 055313" src="https://github.com/user-attachments/assets/93634c25-abc7-4313-8740-0ada18882e71" />
 
 
-### 📂 Step 3: Export and Examine the Evidence
+### 📂 Step 4: Export and Examine the Evidence
 
 After loading the file, select the required evidence and click **“Export Files”** to save it to your drive. The exported files can then be examined to identify **deleted files and other digital evidence**.
 
