@@ -25,5 +25,5 @@ The following tools and resources were used to perform this Digital Forensics pr
 4. Computer or Laptop – Used to perform the forensic investigation.
 5. Screenshot Tool – Used to capture and document each step of the investigation.
 ## Step 1: Install FTK Imager
-# To click thish link and download ftk imager
+** To click thish link and download ftk imager
 https://go.exterro.com/l/43312/2023-05-03/fc4b78?utm_source=chatgpt.com
