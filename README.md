@@ -35,7 +35,7 @@ https://go.exterro.com/l/43312/2023-05-03/fc4b78?utm_source=chatgpt.com
 Select the required evidence file from the system to begin the forensic analysis.
 
 
-<img width="356" height="265" alt="Screenshot 2026-08-31 055313" src="https://github.com/user-attachments/assets/93634c25-abc7-4313-8740-0ada18882e71" />
+<img width="689" height="361" alt="Screenshot 2026-08-31 063026" src="https://github.com/user-attachments/assets/70253706-21b4-4442-bbcc-e858eac66c96" />
 
 
 ### 📂 Step 4: Export and Examine the Evidence
