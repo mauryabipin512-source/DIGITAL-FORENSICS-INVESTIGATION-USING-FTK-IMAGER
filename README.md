@@ -27,17 +27,21 @@ The following tools and resources were used to perform this Digital Forensics pr
 # Step 1: Install FTK Imager
 ## To click thish link and download ftk imager
 https://go.exterro.com/l/43312/2023-05-03/fc4b78?utm_source=chatgpt.com
-## 1 step
+## 2 step
 ## First is open the ftk imager 
 <img width="710" height="379" alt="Screenshot 2026-08-31 050907" src="https://github.com/user-attachments/assets/d66c4dd1-68e8-4194-9ec6-d0d4b827e17a" />
 
 
-# 🔍 Step 2: Select Evidence File
+# 🔍 Step 3: Select Evidence File
 
 Select the required evidence file from the system to begin the forensic analysis.
 
 
 <img width="356" height="265" alt="Screenshot 2026-08-31 055313" src="https://github.com/user-attachments/assets/93634c25-abc7-4313-8740-0ada18882e71" />
 
+
+### 📂 Step 3: Export and Examine the Evidence
+
+After loading the file, select the required evidence and click **“Export Files”** to save it to your drive. The exported files can then be examined to identify **deleted files and other digital evidence**.
 
 
